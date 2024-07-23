@@ -1,0 +1,47 @@
+.footer {
+  background-color: #000;
+  color: #9c7945;
+  padding: 1rem;
+  justify-content: center;
+  text-align: center;
+  margin-left: -170px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0px;
+  gap: 100px;
+}
+
+.footer-section h4 {
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.footer-section p {
+  margin: 5px 0;
+}
+
+.social-links a {
+  color: #fff;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.footer-bottom {
+  margin-top: 50px;
+  margin-left: 190px;
+}
+
+.follow {
+  margin-left: 30px;
+  font-weight: bolder;
+}
+
+.icon-group {
+  font-size: x-large;
+  font-weight: bold;
+}
